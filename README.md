@@ -1,5 +1,5 @@
 # Mini_python_projects
-#1. Missionaries and cannibals game
+# 1. Missionaries and cannibals game
    Create famous 3 missionaries 3 cannibals crossing the river game. Rules are as follows.
 Demonstration.
 
